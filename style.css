@@ -1,0 +1,16 @@
+﻿/*added styling to checklist to make it appear like a handwritten list on notebookpaper*/ 
+
+.mychecklist {
+    background: url(http://i.stack.imgur.com/ynxjD.png) repeat-y;
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.mychecklistItems {
+    font-family: 'Pacifico', cursive !important;
+    text-transform: lowercase;
+}
+
+    .mychecklistItems::first-letter {
+        text-transform: uppercase;
+    }
