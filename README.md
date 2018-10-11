@@ -1,2 +1,2 @@
 # LiveProjectSnippets
- These are changesets I implemented on a 2 week live project.
+Just a few changes I implemented during my 2 week live project.
